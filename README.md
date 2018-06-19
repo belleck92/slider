@@ -1,2 +1,5 @@
 # slider
-Little
+
+npm install 
+
+npm run build 
